@@ -72,6 +72,15 @@ body {
   background-color: #fff;
 }
 
+.row {
+    display: flex;
+    justify-content: center;
+}
+
+.service-card {
+    /* Adjust the service card styles as needed */
+}
+
 [tabindex="-1"]:focus {
   outline: 0 !important;
 }
